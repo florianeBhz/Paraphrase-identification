@@ -36,5 +36,5 @@ https://www.litislab.fr/
 * Clément Chatelain http://pagesperso.litislab.fr/cchatelain/ 
 * Rachel Blin http://pagesperso.litislab.fr/rblin/contacts/ 
 
-## Authors Floriane 
-BEHANZIN and  Antoine LUBOYA MBINGILA
+## Authors 
+Floriane BEHANZIN and  Antoine LUBOYA MBINGILA
