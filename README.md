@@ -10,7 +10,8 @@ We present our deep learning project where the goal was to read and summarize th
 * Quora_tests : tests on Quora dataset 
 
 ## Prerequisites 
-To be able to train the model you need to have python3 and the following python packages installed : numpy, pickle, keras, gensim , re, codecs, nltk 
+To be able to train the model you need to have python3 and the following python packages installed : numpy, pickle, keras, gensim , re, codecs, nltk.
+
 You also need to :
 * download the word embedding file from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 * download the Microsoft Research Paraphrase Corpus dataset from https://www.microsoft.com/en-us/download/details.aspx?id=52398&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2F607d14d9-20cd-47e3-85bc-a2f65cd28042%2F 
