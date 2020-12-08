@@ -1,6 +1,6 @@
 # Deep learning - PARAPHRASE IDENTIFICATION 
 ## Introduction
-We present our deep learning project where the goal was to read and summarize the article : "Sentence Similarity Learning by Lexical Decomposition and Composition" from https://arxiv.org/pdf/1602.07019.pdf at first. Secondly, we reimplement the proposed model in Keras which aims at identifying if two sentences are paraphrases or not. The model uses similarity and dissimilarity components to predict the class through a two channels CNN. Our implementation is adapted from https://github.com/CubasMike/paraphrase_identification. We also test our model on Quora question pairs dataset to analyze its ability to generalize. 
+We present our deep learning project where the goal was to read and summarize the article : "Sentence Similarity Learning by Lexical Decomposition and Composition" from https://arxiv.org/pdf/1602.07019.pdf at first. Secondly, we reimplemented the proposed model in Keras which aims at identifying if two sentences are paraphrases or not. The model uses similarity and dissimilarity components to predict the class through a two channels CNN. Our implementation is adapted from https://github.com/CubasMike/paraphrase_identification. We also test our model on Quora question pairs dataset to analyze its ability to generalize. 
 
 ## Files description
 * main_model: main file
