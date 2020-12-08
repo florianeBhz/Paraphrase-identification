@@ -17,7 +17,9 @@ You also need to :
 * download the Microsoft Research Paraphrase Corpus dataset from https://www.microsoft.com/en-us/download/details.aspx?id=52398&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2F607d14d9-20cd-47e3-85bc-a2f65cd28042%2F 
 * donwload the Quora dataset from https://www.kaggle.com/c/quora-question-pairs/data 
 
-## Training in order to reproduce the training:
+## Training 
+
+In order to reproduce the training:
 * generate dataset according to configurations in configs file
 * run main_model file
 http://www.univ-rouen.fr/ https://www.insa-rouen.fr/ 
