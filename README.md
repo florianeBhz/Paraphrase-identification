@@ -12,7 +12,11 @@ To be able to train the model you need to have python3 and the following package
 http://www.univ-rouen.fr/ https://www.insa-rouen.fr/ 
 
 ## Acknowledgments
-https://www.litislab.fr/ 
+http://www.univ-rouen.fr/
+
+https://www.insa-rouen.fr/
+
+https://www.litislab.fr/
 
 ## Special acknowledgement to our teachers : 
 * Romain Hérault http://asi.insa-rouen.fr/enseignants/~rherault/pelican/index.html 
