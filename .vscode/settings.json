@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/litis/anaconda3/envs/Kerasenv/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
