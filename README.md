@@ -1,5 +1,4 @@
-# Paraphrase-identification 
-# Deep learning - PARAPHRASES IDENTIFICATION 
+# Deep learning - PARAPHRASE IDENTIFICATION 
 ## Introduction
 We present our deep learning project where the goal was to read and summarize the article : "Sentence Similarity Learning by Lexical Decomposition and Composition" from https://arxiv.org/pdf/1602.07019.pdf at first. Secondly build a neural network capable of identifying if two sentences are paraphrases or not. During this project, we reimplement 
 
